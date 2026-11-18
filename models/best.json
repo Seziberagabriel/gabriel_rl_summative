@@ -1,0 +1,7 @@
+{
+  "algo": "ppo",
+  "model": "models/pg/ppo_run_06.pt",
+  "config": "GAE lambda=0.99",
+  "eval_return": -0.9708351882841325,
+  "eval_success": 0.7541666666666667
+}

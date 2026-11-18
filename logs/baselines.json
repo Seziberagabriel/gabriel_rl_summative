@@ -1,0 +1,14 @@
+{
+  "random": {
+    "mean_return": -9.766207782414769,
+    "std_return": 6.902036488489675,
+    "success": 0.5375,
+    "fail_rate": 0.7
+  },
+  "greedy_rule": {
+    "mean_return": -2.8517458518348753,
+    "std_return": 7.517346740839249,
+    "success": 0.7125,
+    "fail_rate": 0.26666666666666666
+  }
+}
